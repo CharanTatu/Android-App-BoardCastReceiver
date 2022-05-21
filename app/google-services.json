@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540643771300",
+    "project_id": "sumamobileteam",
+    "storage_bucket": "sumamobileteam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540643771300:android:f375b95bd9d85612f57731",
+        "android_client_info": {
+          "package_name": "com.example.brodcastreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540643771300-4ldv3i5fn6vou74s7nj3mgfm4q358olg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brodcastreceiver",
+            "certificate_hash": "e848bc735289b416e7c2446bdd071d765758509e"
+          }
+        },
+        {
+          "client_id": "540643771300-kocdq6bba2fqacg1pvnqhbe5bnvdtb1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQDkK4HhOHKzLY47fdNKddEf4ZJSH_pPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540643771300-kocdq6bba2fqacg1pvnqhbe5bnvdtb1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
